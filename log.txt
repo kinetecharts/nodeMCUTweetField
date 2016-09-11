@@ -13290,3 +13290,701 @@ Heartbeat ===== ID: 3 IP: 192.168.0.104
 2016-06-13 #orlando Sun Jun 12 2016 19:27:38 GMT-0700 (PDT)
 UDP message sent to 192.168.0.103:12345
 UDP message sent to 192.168.0.106:12345
+removing 192.168.0.106 from 2016-06-13 #orlando
+removing 192.168.0.105 from 2016-06-13 #trump
+removing 192.168.0.103 from 2016-06-06 #trump2016
+removing 192.168.0.104 from 2016-06-06 #imwithher
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+adding 192.168.0.104 to 2016-06-06 #imwithher
+adding 192.168.0.103 to 2016-06-06 #trump2016
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+adding 192.168.0.103 to 2016-06-06 #trump2016
+adding 192.168.0.104 to 2016-06-06 #imwithher
+adding 192.168.0.105 to 2016-06-13 #trump
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+adding 192.168.0.104 to 2016-06-06 #imwithher
+adding 192.168.0.105 to 2016-06-13 #trump
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.103 to 2016-06-06 #trump2016
+removing 192.168.0.106 from 2016-06-13 #orlando
+adding 192.168.0.106 to 2016-06-13 #orlando
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+adding 192.168.0.104 to 2016-06-06 #imwithher
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.105 to 2016-06-13 #trump
+adding 192.168.0.103 to 2016-06-06 #trump2016
+start playing tweets at duration: 100
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+adding 192.168.0.104 to 2016-06-06 #imwithher
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.105 to 2016-06-13 #trump
+adding 192.168.0.103 to 2016-06-06 #trump2016
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.105 to 2016-06-13 #trump
+adding 192.168.0.103 to 2016-06-06 #trump2016
+adding 192.168.0.104 to 2016-06-06 #imwithher
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+adding 192.168.0.103 to 2016-06-06 #trump2016
+adding 192.168.0.104 to 2016-06-06 #imwithher
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.105 to 2016-06-13 #trump
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+adding 192.168.0.104 to 2016-06-06 #imwithher
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.105 to 2016-06-13 #trump
+adding 192.168.0.103 to 2016-06-06 #trump2016
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.105 to 2016-06-13 #trump
+adding 192.168.0.103 to 2016-06-06 #trump2016
+adding 192.168.0.104 to 2016-06-06 #imwithher
+Heartbeat ===== ID: 3 IP: 192.168.0.104
+Heartbeat ===== ID: 3 IP: 192.168.0.104
+Heartbeat ===== ID: 12 IP: 192.168.0.106
+Heartbeat ===== ID: 12 IP: 192.168.0.106
+Heartbeat ===== ID: 10 IP: 192.168.0.105
+Heartbeat ===== ID: 10 IP: 192.168.0.105
+Heartbeat ===== ID: 0 IP: 192.168.0.103
+Heartbeat ===== ID: 0 IP: 192.168.0.103
+Heartbeat ===== ID: 3 IP: 192.168.0.104
+Heartbeat ===== ID: 3 IP: 192.168.0.104
+Heartbeat ===== ID: 12 IP: 192.168.0.106
+Heartbeat ===== ID: 12 IP: 192.168.0.106
+Heartbeat ===== ID: 10 IP: 192.168.0.105
+Heartbeat ===== ID: 10 IP: 192.168.0.105
+Heartbeat ===== ID: 0 IP: 192.168.0.103
+Heartbeat ===== ID: 0 IP: 192.168.0.103
+Heartbeat ===== ID: 3 IP: 192.168.0.104
+Heartbeat ===== ID: 3 IP: 192.168.0.104
+Heartbeat ===== ID: 12 IP: 192.168.0.106
+Heartbeat ===== ID: 12 IP: 192.168.0.106
+Heartbeat ===== ID: 10 IP: 192.168.0.105
+Heartbeat ===== ID: 10 IP: 192.168.0.105
+start playing tweets at duration: 100
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.105 to 2016-06-13 #trump
+adding 192.168.0.103 to 2016-06-06 #trump2016
+adding 192.168.0.104 to 2016-06-06 #imwithher
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.105 to 2016-06-13 #trump
+adding 192.168.0.103 to 2016-06-06 #trump2016
+adding 192.168.0.104 to 2016-06-06 #imwithher
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+adding 192.168.0.104 to 2016-06-06 #imwithher
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.105 to 2016-06-13 #trump
+adding 192.168.0.103 to 2016-06-06 #trump2016
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+adding 192.168.0.103 to 2016-06-06 #trump2016
+adding 192.168.0.104 to 2016-06-06 #imwithher
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.105 to 2016-06-13 #trump
+
+852455 logs loaded
+created play for  2016-06-06 #trump2016 43442 events
+created play for  2016-06-06 feelthebern 0 events
+created play for  2016-06-06 #trump 38240 events
+created play for  2016-06-06 #imwithher 32968 events
+created play for  2016-06-06 #maga 20518 events
+created play for  2016-06-06 #bernieorbust 19443 events
+created play for  2016-06-06 #trumptrain 16803 events
+created play for  2016-06-06 #makeamericagreatagain 13008 events
+created play for  2016-06-06 #berniesanders 11823 events
+created play for  2016-06-06 #gop 11748 events
+/ \ 
+
+859155 logs loaded
+created play for  2016-06-13 #trump 52329 events
+created play for  2016-06-13 #trump2016 46094 events
+created play for  2016-06-13 #orlando 31710 events
+created play for  2016-06-13 #maga 26172 events
+created play for  2016-06-13 feelthebern 0 events
+created play for  2016-06-13 #trumptrain 16361 events
+created play for  2016-06-13 #bernieorbust 16067 events
+created play for  2016-06-13 #gop 14534 events
+created play for  2016-06-13 #orlandoshooting 14529 events
+created play for  2016-06-13 #imwithher 13473 events
+
+673899 logs loaded
+created play for  2016-07-17 #trump2016 38884 events
+created play for  2016-07-17 #trump 32592 events
+created play for  2016-07-17 #maga 21916 events
+created play for  2016-07-17 #trumptrain 18884 events
+created play for  2016-07-17 #imwithher 13993 events
+created play for  2016-07-17 #gop 13938 events
+created play for  2016-07-17 #wheresyourtaxes 13471 events
+created play for  2016-07-17 #trumppence16 13400 events
+created play for  2016-07-17 #makeamericagreatagain 11992 events
+created play for  2016-07-17 #batonrouge 11922 events
+starting UDP server
+start playing tweets at duration: 100
+UDP Server listening on 192.168.0.101:12346
+adding 192.168.0.103 to 2016-06-06 #trump2016
+adding 192.168.0.104 to 2016-06-06 #imwithher
+adding 192.168.0.106 to 2016-06-13 #orlando
+adding 192.168.0.105 to 2016-06-13 #trump

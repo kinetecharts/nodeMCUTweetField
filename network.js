@@ -33,6 +33,11 @@ var startServer=function(deviceHeartBeatFunc){
                 deviceHeartBeatFunc && deviceHeartBeatFunc(id, remote.address)
                 break;
             default :
+                // heart monitor, msg is 'ID:3#BPM:58.25'
+                if(msgType.match('BPM')!==null){
+                    Config.DEBUG && Log(msgType)
+                    Config.MonitHeart && controller.tick()
+                }
     //         console.log(remote.address + ':' + remote.port +' - ' + message);
         }
     //     console.log(remote.address + ':' + remote.port +' - ' + message);

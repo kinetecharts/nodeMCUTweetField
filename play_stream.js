@@ -26,6 +26,7 @@ class PlayStream{
         this.ip = null
         this.heartbeat_cnt = 0;
         this.playHead = 0; //for performance reason, we use counter
+        this.timeoutInsts = [];
 
         Log("created play for ", date, hashtag, stream.length, "events")
     }
@@ -52,17 +53,18 @@ class PlayStream{
     remove(ip){
         this.ip = null
     }
-    tick(){
+    tick(remove_from_timeoutInsts){
+        if(remove_from_timeoutInsts) this.timeoutInsts.shift()
         this.Network.send(this.ip, "tick")
     }
-    start(){ //start from current time
+    startTweet(){ //start from current time
         this.days_offset = Math.floor((new Date() - this.stream[0])/86400000)
         this.t_last = get_offsetted_now(this.days_offset)
         this.playHead = _.filter(this.stream, t=>{return t < this.t_last }).length
 
 
     }
-    render(){
+    renderTweet(){
         this.t_now = get_offsetted_now(this.days_offset)
         if(this.stream[this.playHead]<this.t_now){
             if(this.ip!==null){
@@ -71,14 +73,22 @@ class PlayStream{
             }
             this.playHead++
         }
-        // var num = _.filter(this.stream, t=>{return (t > this.t_last) && (t <= this.t_now) }).length
-        // if(num>0){
-        //     if(this.ip!==null){
-        //         this.Network.send(this.ip, this.hashtag)
-        //         Log(this.date, this.hashtag, num)
-        //     }
-        // }
         this.t_last = this.t_now
+    }
+    renderRegular(option, idx){
+        if(option.sequential==false && option.randomize == false){
+            this.tick()
+        }else if(option.sequential && option.randomize == false){
+            this.timeoutInsts.push(setTimeout(()=>{this.tick(true)}, idx*option.sequential_delta))
+        }else if(option.sequential==false && option.randomize){
+            this.timeoutInsts.push(setTimeout(()=>{this.tick(true)}, Math.random()* option.randomize_range))
+        }else if(option.sequential && option.randomize){
+            this.timeoutInsts.push(setTimeout(()=>{this.tick(true)}, idx*option.sequential_delta + Math.random()* option.randomize_range))
+        }
+    }
+    stopRegular(){
+        this.timeoutInsts.forEach(inst=>{clearTimeout(inst)})
+        this.timeoutInsts.length = 0
     }
 }
 

@@ -43,7 +43,17 @@ var getlogs=function(date){
 class Controller{
     constructor(Network){
         this.plays=[]
-        this.playing = false
+        this.playingTweet = false
+        this.playingRegular = false
+        this.regularOption={
+            duration: 1000,
+            sequential: false,
+            sequential_delta: 10,
+            randomize: false,
+            randomize_range: 400,
+            drift: false,
+            drift_delta: 10,
+        }
         this.Network = Network
         this.duration = 100
     }
@@ -77,24 +87,51 @@ class Controller{
           })
         }, Q([]))
     }
-    start(duration){
+    tick(){
+        this.plays.forEach(play=>{play.tick()})
+    }
+    startTweet(duration){
         if(duration !== undefined) this.duration = duration
         Log("start playing tweets at duration:", this.duration);
-        this.plays.forEach(play=>{play.start()})
-        this.playing = true
-        this.render()
+        this.plays.forEach(play=>{play.startTweet()})
+        this.playingTweet = true
+        this.renderTweet()
     }
-    stop(){
-        this.playing = false
+    stopTweet(){
+        this.playingTweet = false
     }
-    render(){
-        if(this.playing){
-            setTimeout(()=>{this.render()}, this.duration)
-            this.plays.forEach(play=>{play.render()})
+    renderTweet(){
+        if(this.playingTweet){
+            setTimeout(()=>{this.renderTweet()}, this.duration)
+            this.plays.forEach(play=>{play.renderTweet()})
+        }
+    }
+    startRegular(option){
+        if(option!==undefined){
+            this.regularOption.duration         = option.duration;
+            this.regularOption.sequential       = option.sequential;
+            this.regularOption.sequential_delta = option.sequential_delta;
+            this.regularOption.randomize        = option.randomize;
+            this.regularOption.randomize_range  = option.randomize_range;
+            this.regularOption.drift            = option.drift;
+            this.regularOption.drift_delta      = option.drift_delta;
+        }
+        this.playingRegular = true
+        this.renderRegular()
+    }
+    stopRegular(){
+        this.playingRegular = false
+        this.plays.forEach(play=>{play.stopRegular()})
+    }
+    renderRegular(){
+        if(this.playingRegular){
+            setTimeout(()=>{this.renderRegular()}, this.regularOption.duration)
+            this.plays.forEach((play, idx)=>{play.renderRegular(this.regularOption, idx)})
+            if(this.regularOption.drift){
+                this.regularOption.sequential_delta += this.regularOption.drift_delta
+            }
         }
     }
 }
-
-
 
 module.exports=Controller;
