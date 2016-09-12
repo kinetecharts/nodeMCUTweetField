@@ -56,6 +56,7 @@ class Controller{
         }
         this.Network = Network
         this.duration = 100
+        this.heartMonitorId = 'all'
     }
     day_to_id(i_day, i_hashtag){
         return i_day*Config.HashtagPerDay + i_hashtag
@@ -87,7 +88,8 @@ class Controller{
           })
         }, Q([]))
     }
-    tick(){
+    tick(id){
+        if(this.heartMonitorId=='all' || this.heartMonitorId == id)
         this.plays.forEach(play=>{play.tick()})
     }
     startTweet(duration){
@@ -118,6 +120,17 @@ class Controller{
         }
         this.playingRegular = true
         this.renderRegular()
+    }
+    updateRegular(option){
+        if(option!==undefined){
+            this.regularOption.duration         = option.duration;
+            this.regularOption.sequential       = option.sequential;
+            this.regularOption.sequential_delta = option.sequential_delta;
+            this.regularOption.randomize        = option.randomize;
+            this.regularOption.randomize_range  = option.randomize_range;
+            this.regularOption.drift            = option.drift;
+            this.regularOption.drift_delta      = option.drift_delta;
+        }
     }
     stopRegular(){
         this.playingRegular = false
