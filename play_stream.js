@@ -53,9 +53,9 @@ class PlayStream{
     remove(ip){
         this.ip = null
     }
-    tick(remove_from_timeoutInsts){
+    tick(remove_from_timeoutInsts, msg){
         if(remove_from_timeoutInsts) this.timeoutInsts.shift()
-        this.Network.send(this.ip, "tick")
+        this.Network.send(this.ip, msg)
     }
     startTweet(){ //start from current time
         this.days_offset = Math.floor((new Date() - this.stream[0])/86400000)
@@ -68,7 +68,7 @@ class PlayStream{
         this.t_now = get_offsetted_now(this.days_offset)
         if(this.stream[this.playHead]<this.t_now){
             if(this.ip!==null){
-                this.Network.send(this.ip, this.hashtag)
+                this.Network.send(this.ip, "255,255,255,1")
                 if(Config.DEBUG) Log(this.date, this.hashtag, this.t_now)
             }
             this.playHead++
@@ -77,13 +77,13 @@ class PlayStream{
     }
     renderRegular(option, idx){
         if(option.sequential==false && option.randomize == false){
-            this.tick()
+            this.tick(false, option.msg)
         }else if(option.sequential && option.randomize == false){
-            this.timeoutInsts.push(setTimeout(()=>{this.tick(true)}, idx*option.sequential_delta))
+            this.timeoutInsts.push(setTimeout(()=>{this.tick(true, option.msg)}, idx*option.sequential_delta))
         }else if(option.sequential==false && option.randomize){
-            this.timeoutInsts.push(setTimeout(()=>{this.tick(true)}, Math.random()* option.randomize_range))
+            this.timeoutInsts.push(setTimeout(()=>{this.tick(true, option.msg)}, Math.random()* option.randomize_range))
         }else if(option.sequential && option.randomize){
-            this.timeoutInsts.push(setTimeout(()=>{this.tick(true)}, idx*option.sequential_delta + Math.random()* option.randomize_range))
+            this.timeoutInsts.push(setTimeout(()=>{this.tick(true, option.msg)}, idx*option.sequential_delta + Math.random()* option.randomize_range))
         }
     }
     stopRegular(){

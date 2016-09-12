@@ -53,6 +53,7 @@ class Controller{
             randomize_range: 400,
             drift: false,
             drift_delta: 10,
+            msg:"255,0,0,1" //rgbRelay
         }
         this.Network = Network
         this.duration = 100
@@ -117,6 +118,7 @@ class Controller{
             this.regularOption.randomize_range  = option.randomize_range;
             this.regularOption.drift            = option.drift;
             this.regularOption.drift_delta      = option.drift_delta;
+            this.regularOption.msg              = option.msg;
         }
         this.playingRegular = true
         this.renderRegular()
@@ -130,6 +132,7 @@ class Controller{
             this.regularOption.randomize_range  = option.randomize_range;
             this.regularOption.drift            = option.drift;
             this.regularOption.drift_delta      = option.drift_delta;
+            this.regularOption.msg              = option.msg;            
         }
     }
     stopRegular(){
